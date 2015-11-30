@@ -1,10 +1,14 @@
 .classpath
 .gradle
+.gradle/wrapper
 .proyect
-.setting
+.settings
 .springBeans
+.build.gradle
+.gradlew
+.gradlew.bat
 
 bin
 build
-
+gradle
 classes
